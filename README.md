@@ -6,6 +6,7 @@ Additional Questions and Answers of Upwork Job Application
 
 <b>2. Do you have suggestions to make this project run successfully?</b>
 <p>Ans: Sure I have suggestions for you in this project. According to my concept, the updated strategy and proper methods can make this project successful. And surely I will make this project successful.</p>
+<p>Alternate Ans: I'm sure once I've had a full conversation with you on the parameters of the project and your individual needs as a client that I will have many suggestions about how to implement this project and how we can work with each other effectively to complete it on-time and as requested. I look forward to that conversation</p>
 
 <b>3. Which part of this project do you think will take the most time?</b>
 <p>Ans: According to your job details, I have years of experiences in both fields. And I always use the updated techniques and win the competition. I have a strong belief that I would be able to make this project successful within short time.</p>
