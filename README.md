@@ -20,11 +20,16 @@ Additional Questions and Answers of Upwork Job Application
 <b>6. What part of this project most appeals to you?</b>
 <p>Ans: Here the two parts of this project appeal me very much, one is that all the requirements are in favor of me and the second one is I like to do these kind of job. These kind of project and job give me mental satisfaction.</p>
 
+<p>The entire project appeals me as this is completely resonating to my skills.</p>
+
 <b>7. Why do you think you are a good fit for this particular project?</b>
 <p>Ans: I think I am a good fit for this job because I have all the qualities that you are looking for. Experience is the golden factor in this project where you find in me at least 3+ years of working experiences over all the factors in your project.</p>
 
 <b>8. Do you have any questions about the job description?</b>
-<p>Ans: Your arrangement of the job description is fully understandable and I have understood it very well. Still I have no questions about your job description. If I need any information latter, I must convey you and discuss with you in a friendly circumstances.</p>
+<p>Ans: Not as such but yes, I will have a lot a questions once we discuss this position further.</p>
+	
+What part of this project most appeals to you?
+<p>Your arrangement of the job description is fully understandable and I have understood it very well. Still I have no questions about your job description. If I need any information latter, I must convey you and discuss with you in a friendly circumstances.</p>
 
 <b>9. Which of the required job skills do you feel you are strongest at?</b>
 <p>Ans: I have carefully read your job description and I have more than 3 years of working experience in both of your required skills. And I am strongest at all of your required qualities. Hope I will be the perfect worker for you in this project.</p>
