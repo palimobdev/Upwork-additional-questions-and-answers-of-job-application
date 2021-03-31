@@ -18,7 +18,10 @@ Additional Questions and Answers of Upwork Job Application
 <p>Ans: Competition is everywhere. Always want to be ranked in google. But failing in this competition is problematic. And I know this problem. The problem is the so called workers do not use the updated methods where I always hit the iron when it is hot. That’s why I can assure you that I will be able to do it in short times than the rest (2+ or 3+ months)</p>
 
 <b>6. What part of this project most appeals to you?</b>
-<p>Ans: Here the two parts of this project appeal me very much, one is that all the requirements are in favor of me and the second one is I like to do these kind of job. These kind of project and job give me mental satisfaction.</p>
+<p>Ans:The entire project appeals to me as the job matches my skills my skill set.</p>
+	
+	
+<p>Alternate Answer: Here the two parts of this project appeal me very much, one is that all the requirements are in favor of me and the second one is I like to do these kind of job. These kind of project and job give me mental satisfaction.</p>
 
 <p>The entire project appeals me as this is completely resonating to my skills.</p>
 
